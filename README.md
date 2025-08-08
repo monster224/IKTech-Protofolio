@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +14,7 @@
 <body>
     <nav>
       <div class="left">
-        <img src="https://scontent.flhe2-3.fna.fbcdn.net/v/t39.30808-6/518335626_740772471873542_446481917397806082_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KUk1fy2qDQEQ7kNvwGv0fCJ&_nc_oc=AdnXGKqSP4_4om-1LM7ZQJAfhExXn85D9pf-Jhr9pBurDZDQdWUsQPZZQrAINyGwMlU&_nc_zt=23&_nc_ht=scontent.flhe2-3.fna&_nc_gid=rN3lRHVbHVUFaZ5etgx2sQ&oh=00_AfTCnLFsftaYfYZTZ-23BpQ6dp5mrdRXJWs5hvbfOEY1LQ&oe=68809C73" alt="">
+        <img src="https://private-user-images.githubusercontent.com/156824947/476205863-75ab325e-35c6-4b8e-99fa-3990eb93b7e3.PNG?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ2OTM0ODYsIm5iZiI6MTc1NDY5MzE4NiwicGF0aCI6Ii8xNTY4MjQ5NDcvNDc2MjA1ODYzLTc1YWIzMjVlLTM1YzYtNGI4ZS05OWZhLTM5OTBlYjkzYjdlMy5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwOFQyMjQ2MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNWMwMDE1MjlhZTc3ZmU5ZGJiMTJmMDE3MmQ3MmNhOWJlNzk1YWE5NmFkMjBlMjdlODdlZmQ3ODE0OTMwYmVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QBYLQn5eoA4sPqPf8pY4_S3COcsp2wfgIUgthDqdfXw" alt="">
       </div>
       <div class="right">
         <div class="ref">
@@ -53,13 +54,13 @@
             <button>Download CV</button>
           </div>
           <div class="right">
-            <img src="https://scontent.flhe2-3.fna.fbcdn.net/v/t39.30808-6/518335626_740772471873542_446481917397806082_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KUk1fy2qDQEQ7kNvwGv0fCJ&_nc_oc=AdnXGKqSP4_4om-1LM7ZQJAfhExXn85D9pf-Jhr9pBurDZDQdWUsQPZZQrAINyGwMlU&_nc_zt=23&_nc_ht=scontent.flhe2-3.fna&_nc_gid=rN3lRHVbHVUFaZ5etgx2sQ&oh=00_AfTCnLFsftaYfYZTZ-23BpQ6dp5mrdRXJWs5hvbfOEY1LQ&oe=68809C73" alt="">
+            <img src="https://private-user-images.githubusercontent.com/156824947/476205863-75ab325e-35c6-4b8e-99fa-3990eb93b7e3.PNG?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ2OTM0ODYsIm5iZiI6MTc1NDY5MzE4NiwicGF0aCI6Ii8xNTY4MjQ5NDcvNDc2MjA1ODYzLTc1YWIzMjVlLTM1YzYtNGI4ZS05OWZhLTM5OTBlYjkzYjdlMy5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwOFQyMjQ2MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNWMwMDE1MjlhZTc3ZmU5ZGJiMTJmMDE3MmQ3MmNhOWJlNzk1YWE5NmFkMjBlMjdlODdlZmQ3ODE0OTMwYmVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QBYLQn5eoA4sPqPf8pY4_S3COcsp2wfgIUgthDqdfXw" alt="">
           </div>
     </section>
    <br><hr>
     <section id="sec2">
         <div class="left">
-            <img src="https://scontent.flhe2-4.fna.fbcdn.net/v/t39.30808-6/518388590_740776171873172_6063641110922188494_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=IfrP0BIKLbUQ7kNvwHYDzTI&_nc_oc=Adl1EeeL2QQUTBJzvBNE6IhXmmm6jnCVdvp-mopU2bggAhKBBdEWBKzSm7hnaJSf5K4&_nc_zt=23&_nc_ht=scontent.flhe2-4.fna&_nc_gid=YpesTjojvozeTcIS2elEhg&oh=00_AfRmDuOkcA5-qUrrPDCHSFA5jp0Nb02YLZK40ASyctXKGQ&oe=6880B47C" alt="">
+            <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/156824947/476206004-e6d582d8-842d-4826-acda-6e0dac12a686.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250808%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250808T225043Z&X-Amz-Expires=300&X-Amz-Signature=de50829f0573420d2ef75aac5bd31e2ce6475bd96b96cf750a9d2f7c6d9ee490&X-Amz-SignedHeaders=host" alt="">
         </div>
         <div class="right">
         <h1>About <h2>ME</h2></h1><br>
@@ -147,7 +148,7 @@
     </h2>
 
     <!-- Large Centered Image -->
-    <img src="https://scontent.flhe2-2.fna.fbcdn.net/v/t39.30808-6/518410240_740776441873145_4377453957267678396_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1X8Kf28POiIQ7kNvwE96uO-&_nc_oc=Adk_ZROkfUuZLSZ8oDfDB_Tv5pP7tx6SB7oMRkg_8iywkD5C5xhSGyFKpGHk5QVChXw&_nc_zt=23&_nc_ht=scontent.flhe2-2.fna&_nc_gid=Mln3yLX5P6Ku7UkYMzrhIg&oh=00_AfSwX6hzOxlDywr9efYzMQrwg-1F2YSdLGuj3DQAEff8Mg&oe=688093F5" 
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/156824947/476206057-5a884d7a-a1a1-488a-97d6-3597efbbc7f5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250808%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250808T225120Z&X-Amz-Expires=300&X-Amz-Signature=0ac161f2a8dd0d3095ed357c06ee6ee4287f647162451e161d17166d32aabc74&X-Amz-SignedHeaders=host" 
          alt="Development Environment Diagram"
          style=" width: 1000px; height: 500px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); border-radius: 16px;">
          
@@ -278,7 +279,7 @@
   <!-- Heading Centered -->
  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 40px;">
   <!-- Logo Image -->
-  <img src="https://scontent.flhe2-3.fna.fbcdn.net/v/t39.30808-6/518335626_740772471873542_446481917397806082_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KUk1fy2qDQEQ7kNvwGv0fCJ&_nc_oc=AdnXGKqSP4_4om-1LM7ZQJAfhExXn85D9pf-Jhr9pBurDZDQdWUsQPZZQrAINyGwMlU&_nc_zt=23&_nc_ht=scontent.flhe2-3.fna&_nc_gid=rN3lRHVbHVUFaZ5etgx2sQ&oh=00_AfTCnLFsftaYfYZTZ-23BpQ6dp5mrdRXJWs5hvbfOEY1LQ&oe=68809C73" alt="IK Technologies Logo" style="height: 100px; width: 150px;">
+  <img src="https://private-user-images.githubusercontent.com/156824947/476205863-75ab325e-35c6-4b8e-99fa-3990eb93b7e3.PNG?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ2OTM0ODYsIm5iZiI6MTc1NDY5MzE4NiwicGF0aCI6Ii8xNTY4MjQ5NDcvNDc2MjA1ODYzLTc1YWIzMjVlLTM1YzYtNGI4ZS05OWZhLTM5OTBlYjkzYjdlMy5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwOFQyMjQ2MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNWMwMDE1MjlhZTc3ZmU5ZGJiMTJmMDE3MmQ3MmNhOWJlNzk1YWE5NmFkMjBlMjdlODdlZmQ3ODE0OTMwYmVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QBYLQn5eoA4sPqPf8pY4_S3COcsp2wfgIUgthDqdfXw" alt="IK Technologies Logo" style="height: 100px; width: 150px;">
 
   <!-- Heading -->
   <h2 style="color: #00d8ff; font-size: 50px; margin: 0;">IK Technologies</h2>
